@@ -6,12 +6,29 @@
   }
   
   body{
-  background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+    background-image: linear-gradient(to top, rgba(12,0,88) 0%, rgba(255,110,110) 110%);
   min-height: 100vh;
+  
   }
   
+  .containerkoulal{
+    float: right;
+    margin-top: 20%;
+    opacity: 0.5;
+    color: #e46a6a;
+    
+}
+
+.logo{
+     margin-left: 39%;
+}
+
+.sko{
+  color: white;
+}
+  
   h1{
-    color: #174552;
+    color: #298eaa;
     text-align: center;
     padding: 40px;
   }
@@ -53,12 +70,6 @@
     background: rgba(0,0,0,.5);
     color: #fff;
   }
-  
-  
-  
-  
-  
-  
   
   
   
